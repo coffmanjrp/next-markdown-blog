@@ -66,6 +66,12 @@ header a {
   transform: scale(0.98);
 }
 
+.btn-back {
+  margin-bottom: 20px;
+  background-color: #f4f4f4;
+  color: #000;
+}
+
 .posts {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -94,8 +100,8 @@ header a {
 }
 
 .post-body ul,
-ol {
-  margin: 10px 0;
+.post-body ol {
+  margin: 10px 20px;
   font-size: 110%;
   font-weight: bold;
   line-height: 2.3;
