@@ -34,5 +34,6 @@ Enjoy!
 
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
+- [Markdown](https://www.markdownguide.org/)
 - [Marked](https://marked.js.org/)
 - [gray-matter](https://github.com/jonschlinkert/gray-matter)
