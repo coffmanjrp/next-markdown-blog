@@ -9,6 +9,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
+        <meta name="robots" content="noindex, nofollow" />
         <title>Next Markdown Blog</title>
       </Head>
       <div className="posts">
